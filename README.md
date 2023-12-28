@@ -1,7 +1,7 @@
 # SSI Symbol Library for KiCad
 KiCad 7.0 schematic symbol library for Sound Semiconductor, Inc. ICs
 
-![ssi_symbols](/home/max/projects/ssi_symbols/img/ssi_symbols.png)
+![ssi_symbols](img/ssi_symbols.png)
 
 | Part Number                                                  | Part Type      | Footprint                                               | Notes                                                        |
 | ------------------------------------------------------------ | -------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
